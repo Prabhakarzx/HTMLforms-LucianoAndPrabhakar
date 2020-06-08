@@ -1,20 +1,30 @@
 *{
     background-color: #ECEEF1;
 }
+body{
+    margin: 0;
+}
 button{
-    width: 100%;
     background-color: rgb(0,119,197);
     color:white;
     border-color: #4c4c4c;
     border-width: 1px;
     border-radius: 4px;
-    font-size: 18px;
-    padding: 12px 25px 12px 25px;  
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
     cursor: pointer;
+    height: 34px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13.5px;    
+    font-weight: 400;    
 }
 header{ 
-    top: 0;
-    right: 0;
+    float: none;
+    height: 60px;
+    padding: 10px 30px 10px 30px;
+    margin: 0;
 }
 div{
     display: flex;
