@@ -3,3 +3,27 @@
 }
 
 
+.addingFooter{
+    display: flex;
+    flex-direction: column;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    width: 900px;
+  }
+  
+  
+.li-footer {
+    display: inline;
+    width: 300px;
+    padding: 5px;
+  }
+  
+  .ul-footer {
+    display: flex;
+    text-align: center;
+    width: 240px;
+    align-content: center;
+    vertical-align: middle;
+    padding: 0;
+  }
