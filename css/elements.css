@@ -1,3 +1,27 @@
-#alreadyHaceAccount{
-    width: 50%;
+
+#alreadyHaveAccountDiv{
+    width: fit-content;
+    float: left;
+
+}
+#signInButtonDiv{
+    float: right;
+    padding: 0 20px;
+    font-size: 1.125em;
+    height: 34px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+        
+}
+#alreadyHaveAccountP{
+    text-align: right;
+}
+#intuitLogoImg{
+    width: 15%;
+}
+#auxiliarServicesImg{
+    width: 35%;
+}
+#intuitLogoImg{
+    opacity: 50%;
 }

@@ -1,3 +1,8 @@
-button,nav,p,a,div{
+button,nav,p,a,header{
     border-style: solid;
+    border-width: 0.0001px;
+}
+div,main,form{
+    border-style: dashed;
+    border-width: 0.0001px;
 }
