@@ -9,20 +9,20 @@
     vertical-align: middle;
     align-items: center;
     text-align: center;
-    width: 900px;
+    width: 875px;
   }
   
   
 .li-footer {
     display: inline;
-    width: 300px;
-    padding: 5px;
+    width: 280px;
+    padding: 4px;
   }
   
   .ul-footer {
     display: flex;
     text-align: center;
-    width: 240px;
+    width: 250px;
     align-content: center;
     vertical-align: middle;
     padding: 0;
