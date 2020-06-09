@@ -1,35 +1,57 @@
-
-#alreadyHaveAccountDiv{
-    width: fit-content;
+#signUpHeaderDiv{  
+    display: block;
+    float: none;
+    height: 60px;
+    line-height: 18px;
+    padding: 10px 30px 10px 30px;
+    margin: 0;
+    font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#signUpBlockDiv{
     float: right;
+    width: 298px;
+    height: 36px;
     margin: 0;
     padding: 0;
 }
-#signInButtonDiv{
-    float: right;
-    padding: 0 20px;
-    font-size: 1.125em;
-
+#signUpHeaderTextDiv{
+    display: block;
+    float: left;
+    margin-left:10px;
+    padding: 0;
+    height: 36px;
+    width: 175px;
+    font-size: 12px; 
+    line-height: 18px;
+    font-weight: 400;           
 }
-#alreadyHaveAccountP{
-    text-align: right;
-    font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 12px;
-    line-height: 1.5;
+
+#signUpHeaderTextP{
+    display: block;
+    color: #505050;
+    height: 18px;
     margin: 0;
-}
-#intuitLogoImg{
-    width: 15%;
-}
-#auxiliarServicesImg{
-    width: 35%;
-}
-#intuitLogoImg{
-    opacity: 50%;
+    padding: 0;
+    width: 170.719px;
 }
 
-#term-and-conditions {
-    font-size: 12px;
-    color: #9c9aac;
-    text-align: center;
-  }
+#signUpHeaderTextA{
+    color: #0077C5;
+    height: 14px;
+}
+
+#signUpButtonDiv{
+    display: block;
+    float: right;
+    height: 34px;
+    margin-left: 10px;
+    width: 102.563px;
+}
+
+#signUpButton{
+    align-items: flex-start;
+    display: inline-block;
+    width: 102.563px;
+    height: 34px;
+}
+

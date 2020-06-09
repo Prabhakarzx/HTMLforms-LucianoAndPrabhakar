@@ -1,29 +1,21 @@
-.lock{
-    width: 10px;
+.lockImg{
+    background-size: contain;
+    background-color: transparent;
+    color:white;
+    display: inline-block;
+    height: 13.5px;
+    margin: 2px 4px 0 0 ;
+    outline-color: white;
+    text-align: center;
+    vertical-align: text-top;
+    width: 0.8em;
 }
 
 
-.addingFooter{
-    display: flex;
-    flex-direction: column;
-    vertical-align: middle;
-    align-items: center;
-    text-align: center;
-    width: 875px;
-  }
-  
-  
-.li-footer {
-    display: inline;
-    width: 280px;
-    padding: 4px;
-  }
-  
-  .ul-footer {
-    display: flex;
-    text-align: center;
-    width: 250px;
-    align-content: center;
-    vertical-align: middle;
-    padding: 0;
-  }
+
+
+
+
+
+
+
