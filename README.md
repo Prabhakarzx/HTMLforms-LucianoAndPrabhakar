@@ -2,7 +2,7 @@
 
 > Luciano and Prabhakar 2nd project in HTML&CSS3 module.
 
-![screenshot](./screenshot.png)
+![screenshot](images/screenshot.PNG)
 
 In this task we were required to create a clone of mint.com's sighnup form using the best practices of HTML AND CSS with GitHub process flow.
 
