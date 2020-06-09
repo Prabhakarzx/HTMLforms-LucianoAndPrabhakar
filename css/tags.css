@@ -36,6 +36,7 @@ form{
     font-family: Arial, Helvetica, sans-serif;
     border-width: 2px;
     border-color: rgb(199, 199, 199);
+    border-top-width: 4px;
 }
 h1{
     background-color: transparent;
@@ -44,4 +45,18 @@ h1{
     text-align: center;
     line-height: 1.1;
     color:#4C4C4C;
+    margin: 0;
+}
+h2{
+    font-size: 14px;
+    background-color: transparent;
+    font-weight: 300;
+    line-height: 1.2;
+    text-align: center;
+    color: #4C4C4C;
+}
+a{
+    color:#0077C5;
+    font-size: 12px;
+    background-color: transparent;
 }
