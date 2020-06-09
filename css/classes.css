@@ -11,7 +11,16 @@
     width: 0.8em;
 }
 
+.auxiliarServicesLogoImg{
+    display: inline-block;
+    height: 23px;
+    margin: 0 4px 0 0;    
+}
+.auxiliarServicesTextImg{
+    height: 20px;
+    margin: 0 9px 0 0;    
 
+}
 
 
 

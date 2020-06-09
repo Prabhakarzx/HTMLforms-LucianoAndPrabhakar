@@ -2,6 +2,7 @@
     display: block;
     float: none;
     height: 60px;
+    background-origin: padding-box;
     line-height: 18px;
     padding: 10px 30px 10px 30px;
     margin: 0;
@@ -55,3 +56,18 @@
     height: 34px;
 }
 
+#intuitLogoImg{
+    margin: auto;
+    display: block;
+    height: 35px;
+}
+#auxiliarServicesDiv{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: 23px;
+    margin: 0 0 15px 0;      
+}
+#auxiliarServicesMintTextImg{
+    height: 20px;
+}
