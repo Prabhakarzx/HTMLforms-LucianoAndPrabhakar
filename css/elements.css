@@ -72,6 +72,35 @@
     height: 20px;
 }
 #headerFormSection{
-    padding-bottom: 20px;
     background-color: transparent;
+}
+#createAccountButton{
+    border-width: 0;
+    margin-top: 30px;
+    margin-bottom: 41px;
+    width: 100%;
+    padding: 6px 12px;
+    height: 44px;
+    font-size: 15.75px;
+}
+#formTermsP{
+    padding:0 15px;
+    background-color: transparent;
+    font-size: 12px;
+    font-style: italic;
+    color:#757575;
+    text-align: center;
+    width: auto;
+    margin-bottom: 32px;
+}
+#invisibleCaptchaP{
+    background-color: #ECEEF1;
+    color:#8d9096;
+    font-size: 10px;
+    padding: 16px;
+    text-align: center;
+    width:100%;
+    width: 346px;
+    padding: 16px;
+    margin:auto;
 }
