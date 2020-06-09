@@ -27,10 +27,10 @@
     margin:0;
     line-height: 1.5;
 }
-
-
-
-
-
-
-
+.footerLinks{
+    color:#505050;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    line-height: 1.5;
+}

@@ -80,3 +80,10 @@ label{
     padding-bottom: 6px;
     line-height: 1.5;
 }
+nav{
+    margin:auto;
+    text-align: center;
+}
+footer{
+    margin: 20px 0;
+}

@@ -104,3 +104,10 @@
     padding: 16px;
     margin:auto;
 }
+#borderFormDiv{
+    width: 378px;
+    margin: auto;
+    border-color: rgb(199, 199, 199);
+    border-width: 1px;   
+    border-style: solid;
+}
