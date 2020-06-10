@@ -1,16 +1,15 @@
 * {
     background-color: #ECEEF1;
-  }
-  
-  
-  /* tags formats */
-  
-  body {
+}
+
+/* tags formats */
+
+body {
     margin: 0;
     font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-  
-  button {
+}
+
+button {
     background-color: rgb(0, 119, 197);
     color: white;
     border-color: #4c4c4c;
@@ -24,14 +23,14 @@
     margin: 0;
     font-size: 13.5px;
     font-weight: 400;
-  }
-  
-  header {
+}
+
+header {
     height: 35px;
     padding: 20px 0 20px 0;
-  }
-  
-  form {
+}
+
+form {
     display: block;
     background-color: white;
     padding: 30px;
@@ -41,9 +40,9 @@
     text-align: left;
     width: 318px;
     font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  h1 {
+}
+
+h1 {
     background-color: transparent;
     font-size: 24px;
     font-weight: 400;
@@ -51,24 +50,24 @@
     line-height: 1.1;
     color: #4C4C4C;
     margin: 0;
-  }
-  
-  h2 {
+}
+
+h2 {
     font-size: 14px;
     background-color: transparent;
     font-weight: 300;
     line-height: 1.2;
     text-align: center;
     color: #4C4C4C;
-  }
-  
-  a {
+}
+
+a {
     color: #0077C5;
     background-color: transparent;
     text-decoration: none;
-  }
-  
-  input {
+}
+
+input {
     background-color: transparent;
     width: 320px;
     margin: 0;
@@ -77,9 +76,9 @@
     height: 34px;
     border-radius: 3px;
     border: 1px solid lightgray;
-  }
-  
-  label {
+}
+
+label {
     display: inline-block;
     margin-top: 20px;
     background-color: transparent;
@@ -88,21 +87,20 @@
     font-size: 14px;
     padding-bottom: 6px;
     line-height: 1.5;
-  }
-  
-  nav {
+}
+
+nav {
     margin: auto;
     text-align: center;
-  }
-  
-  footer {
+}
+
+footer {
     margin: 20px 0;
-  }
-  
-  
-  /* classes formats */
-  
-  .lockImg {
+}
+
+/* classes formats */
+
+.lockImg {
     background-size: contain;
     background-color: transparent;
     color: white;
@@ -113,38 +111,37 @@
     text-align: center;
     vertical-align: text-top;
     width: 0.8em;
-  }
-  
-  .auxiliarServicesLogoImg {
+}
+
+.auxiliarServicesLogoImg {
     display: inline-block;
     height: 23px;
     margin: 0 4px 0 0;
-  }
-  
-  .auxiliarServicesTextImg {
+}
+
+.auxiliarServicesTextImg {
     height: 20px;
     margin: 0 9px 0 0;
-  }
-  
-  .fieldFooterLabel {
+}
+
+.fieldFooterLabel {
     font-size: 10px;
     padding: 5px 0 5px 0;
     margin: 0;
     line-height: 1.5;
-  }
-  
-  .footerLinks {
+}
+
+.footerLinks {
     color: #505050;
     font-size: 12px;
     text-align: center;
     margin: 0;
     line-height: 1.5;
-  }
-  
-  
-  /* elements formats */
-  
-  #signUpHeaderDiv {
+}
+
+/* elements formats */
+
+#signUpHeaderDiv {
     display: block;
     float: none;
     height: 60px;
@@ -153,17 +150,17 @@
     padding: 10px 30px 10px 30px;
     margin: 0;
     font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-  
-  #signUpBlockDiv {
+}
+
+#signUpBlockDiv {
     float: right;
     width: 298px;
     height: 36px;
     margin: 0;
     padding: 0;
-  }
-  
-  #signUpHeaderTextDiv {
+}
+
+#signUpHeaderTextDiv {
     display: block;
     float: left;
     margin-left: 10px;
@@ -173,60 +170,60 @@
     font-size: 12px;
     line-height: 18px;
     font-weight: 400;
-  }
-  
-  #signUpHeaderTextP {
+}
+
+#signUpHeaderTextP {
     display: block;
     color: #505050;
     height: 18px;
     margin: 0;
     padding: 0;
     width: 170.719px;
-  }
-  
-  #signUpHeaderTextA {
+}
+
+#signUpHeaderTextA {
     color: #0077C5;
     height: 14px;
-  }
-  
-  #signUpButtonDiv {
+}
+
+#signUpButtonDiv {
     display: block;
     float: right;
     height: 34px;
     margin-left: 10px;
     width: 102.563px;
-  }
-  
-  #signUpButton {
+}
+
+#signUpButton {
     align-items: flex-start;
     display: inline-block;
     width: 102.563px;
     height: 34px;
-  }
-  
-  #intuitLogoImg {
+}
+
+#intuitLogoImg {
     margin: auto;
     display: block;
     height: 35px;
-  }
-  
-  #auxiliarServicesDiv {
+}
+
+#auxiliarServicesDiv {
     display: flex;
     margin: auto;
     justify-content: center;
     height: 23px;
     margin: 0 0 15px 0;
-  }
-  
-  #auxiliarServicesMintTextImg {
+}
+
+#auxiliarServicesMintTextImg {
     height: 20px;
-  }
-  
-  #headerFormSection {
+}
+
+#headerFormSection {
     background-color: transparent;
-  }
-  
-  #createAccountButton {
+}
+
+#createAccountButton {
     border-width: 0;
     margin-top: 30px;
     margin-bottom: 41px;
@@ -234,9 +231,9 @@
     padding: 6px 12px;
     height: 44px;
     font-size: 15.75px;
-  }
-  
-  #formTermsP {
+}
+
+#formTermsP {
     padding: 0 15px;
     background-color: transparent;
     font-size: 12px;
@@ -245,9 +242,9 @@
     text-align: center;
     width: auto;
     margin-bottom: 32px;
-  }
-  
-  #invisibleCaptchaP {
+}
+
+#invisibleCaptchaP {
     background-color: #ECEEF1;
     color: #8d9096;
     font-size: 10px;
@@ -257,12 +254,12 @@
     width: 346px;
     padding: 16px;
     margin: auto;
-  }
-  
-  #borderFormDiv {
+}
+
+#borderFormDiv {
     width: 378px;
     margin: auto;
     border-color: rgb(199, 199, 199);
     border-width: 1px;
     border-style: solid;
-  }
+}
