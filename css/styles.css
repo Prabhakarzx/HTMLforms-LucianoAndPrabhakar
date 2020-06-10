@@ -2,12 +2,11 @@
   background-color: #eceef1;
 }
 
-/* tags formats */
-
 body {
   margin: 0;
   font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 button {
   background-color: rgb(0, 119, 197);
   color: white;
@@ -22,10 +21,12 @@ button {
   font-size: 13.5px;
   font-weight: 400;
 }
+
 header {
   height: 35px;
   padding: 20px 0 20px 0;
 }
+
 form {
   display: block;
   background-color: white;
@@ -37,6 +38,7 @@ form {
   width: 318px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h1 {
   background-color: transparent;
   font-size: 24px;
@@ -46,6 +48,7 @@ h1 {
   color: #4c4c4c;
   margin: 0;
 }
+
 h2 {
   font-size: 14px;
   background-color: transparent;
@@ -54,11 +57,13 @@ h2 {
   text-align: center;
   color: #4c4c4c;
 }
+
 a {
   color: #0077c5;
   background-color: transparent;
   text-decoration: none;
 }
+
 input {
   background-color: transparent;
   width: 320px;
@@ -69,6 +74,7 @@ input {
   border-radius: 3px;
   border: 1px solid lightgray;
 }
+
 label {
   display: inline-block;
   margin-top: 20px;
@@ -79,15 +85,15 @@ label {
   padding-bottom: 6px;
   line-height: 1.5;
 }
+
 nav {
   margin: auto;
   text-align: center;
 }
+
 footer {
   margin: 20px 0;
 }
-
-/* classes formats */
 
 .lockImg {
   background-size: contain;
@@ -101,21 +107,25 @@ footer {
   vertical-align: text-top;
   width: 0.8em;
 }
+
 .auxiliarServicesLogoImg {
   display: inline-block;
   height: 23px;
   margin: 0 4px 0 0;
 }
+
 .auxiliarServicesTextImg {
   height: 20px;
   margin: 0 9px 0 0;
 }
+
 .fieldFooterLabel {
   font-size: 10px;
   padding: 5px 0 5px 0;
   margin: 0;
   line-height: 1.5;
 }
+
 .footerLinks {
   color: #505050;
   font-size: 12px;
@@ -123,8 +133,6 @@ footer {
   margin: 0;
   line-height: 1.5;
 }
-
-/* elements formats */
 
 #signUpHeaderDiv {
   display: block;
@@ -136,6 +144,7 @@ footer {
   margin: 0;
   font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 #signUpBlockDiv {
   float: right;
   width: 298px;
@@ -143,6 +152,7 @@ footer {
   margin: 0;
   padding: 0;
 }
+
 #signUpHeaderTextDiv {
   display: block;
   float: left;
@@ -154,6 +164,7 @@ footer {
   line-height: 18px;
   font-weight: 400;
 }
+
 #signUpHeaderTextP {
   display: block;
   color: #505050;
@@ -162,10 +173,12 @@ footer {
   padding: 0;
   width: 170.719px;
 }
+
 #signUpHeaderTextA {
   color: #0077c5;
   height: 14px;
 }
+
 #signUpButtonDiv {
   display: block;
   float: right;
@@ -173,17 +186,20 @@ footer {
   margin-left: 10px;
   width: 102.563px;
 }
+
 #signUpButton {
   align-items: flex-start;
   display: inline-block;
   width: 102.563px;
   height: 34px;
 }
+
 #intuitLogoImg {
   margin: auto;
   display: block;
   height: 35px;
 }
+
 #auxiliarServicesDiv {
   display: flex;
   margin: auto;
@@ -191,12 +207,15 @@ footer {
   height: 23px;
   margin: 0 0 15px 0;
 }
+
 #auxiliarServicesMintTextImg {
   height: 20px;
 }
+
 #headerFormSection {
   background-color: transparent;
 }
+
 #createAccountButton {
   border-width: 0;
   margin-top: 30px;
@@ -206,6 +225,7 @@ footer {
   height: 44px;
   font-size: 15.75px;
 }
+
 #formTermsP {
   padding: 0 15px;
   background-color: transparent;
@@ -216,6 +236,7 @@ footer {
   width: auto;
   margin-bottom: 32px;
 }
+
 #invisibleCaptchaP {
   background-color: #eceef1;
   color: #8d9096;
@@ -227,6 +248,7 @@ footer {
   padding: 16px;
   margin: auto;
 }
+
 #borderFormDiv {
   width: 378px;
   margin: auto;
