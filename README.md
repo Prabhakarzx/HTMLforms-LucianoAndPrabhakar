@@ -1,6 +1,6 @@
-# HTML Form
+# HTML Form Project
 
-> Luciano and Prabhakar 2nd project in HTML&CSS3 module.
+> Luciano and Prabhakar's 2nd project in HTML&CSS3 module.
 
 ![screenshot](images/screenshot.PNG)
 
@@ -13,7 +13,7 @@ In this task we were required to create a clone of mint.com's sighnup form using
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Prabhakarzx/HTMLforms-LucianoAndPrabhakar.git)
+[Live Demo Link](https://rawcdn.githack.com/Prabhakarzx/HTMLforms-LucianoAndPrabhakar/9d46fc7df774eb29ab2d38cb5082585b25ada8c0/index.html)
 
 
 ## Authors
@@ -32,7 +32,7 @@ In this task we were required to create a clone of mint.com's sighnup form using
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Prabhakarzx/HTMLforms-LucianoAndPrabhakar/issues)
 
 ## Show your support
 
@@ -42,6 +42,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - GitHub
+- TheOdinProject
 
 ## 📝 License
 
