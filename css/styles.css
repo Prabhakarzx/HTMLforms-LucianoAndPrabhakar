@@ -202,7 +202,6 @@ footer {
 
 #auxiliarServicesDiv {
   display: flex;
-  margin: auto;
   justify-content: center;
   height: 23px;
   margin: 0 0 15px 0;
@@ -245,7 +244,6 @@ footer {
   text-align: center;
   width: 100%;
   width: 346px;
-  padding: 16px;
   margin: auto;
 }
 
