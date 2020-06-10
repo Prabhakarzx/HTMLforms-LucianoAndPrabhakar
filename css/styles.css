@@ -1,10 +1,7 @@
 * {
     background-color: #eceef1;
 }
-
-
 /* tags formats */
-
 body {
     margin: 0;
     font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -21,7 +18,6 @@ button {
     padding: 0 20px 0 20px;
     text-align: center;
     cursor: pointer;
-    margin: 0;
     font-size: 13.5px;
     font-weight: 400;
 }
