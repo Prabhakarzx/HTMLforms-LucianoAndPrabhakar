@@ -1,4 +1,4 @@
-# HTML Form Project
+# HTML Form Project(Mint.com's SignUp Form clone)
 
 > Luciano and Prabhakar's 2nd project in HTML&CSS3 module.
 
